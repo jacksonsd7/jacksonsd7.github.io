@@ -1,8 +1,9 @@
 ## Introductory Blog - January 10, 2020
+___
 #### About Me
 My name is **Sydney Jackson**. I'm a senior Computer Information Systems major. <br />
 I'm 22 years old. I'm from Bonneau, South Carolina where I graduated as Valedictorian from Timberland High School. <br />
-I currently live in Mount Pleasant. <br />
+I currently live in Mount Pleasant.
 In my free time, I enjoy weightlifting, archery hunting, competitive activities, and finding ways to better myself.
 #### Future
 Right now, I am actively searching for an internship that I can complete when I graduate in May. <br />

@@ -1,5 +1,5 @@
-My name is Sydney Jackson.
-I'm a senior & a Computer Information Systems major.
+###### My name is **Sydney Jackson**.
+###### I'm a senior Computer Information Systems major.
 I'm 22, from Bonneau, South Carolina where I graduated as Valedictorian from Timberland High School.
 I currently live in Mount Pleasant.
 
